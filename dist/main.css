@@ -1,3 +1,38 @@
+header {
+  background: #000000; }
+  header h1 {
+    float: left; }
+  header img {
+    float: right;
+    width: 6vw; }
 
+main {
+  clear: both; }
+  main img {
+    width: 100vw; }
+  main #menuItems {
+    width: 66%;
+    float: left; }
+  main #order {
+    width: 33%;
+    float: right; }
+
+footer {
+  clear: both; }
+
+#menuTitle {
+  border-bottom: 1px solid black; }
+
+.itemPrice {
+  width: 10%;
+  float: right; }
+
+.itemTitle {
+  width: 90%;
+  float: left;
+  font-weight: bold; }
+
+.itemDescribe {
+  clear: both; }
 
 /*# sourceMappingURL=main.css.map */
